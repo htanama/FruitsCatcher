@@ -1,0 +1,49 @@
+Assets Licenses
+
+
+Sound Effects:
+Apple Bite
+Biting an apple sound extracted from https://freesound.org/s/333825/
+Format: OGG/Vorbis
+Bit rate: 96k
+Sample rate: 44100Hz
+Channels: 1
+Licensing: Creative Commons Zero (CC0)
+Author: AntumDeluge
+Wednesday, November 17, 2021 - 18:00
+Canonical link: https://opengameart.org/node/132358
+
+
+Hit Sound Effects - hit20.mp3.mp3 20.5 Kb [255 download(s)]
+https://opengameart.org/content/hit-sound-effects
+Author: KonitaTutorials
+Thursday, November 3, 2022 - 08:27
+Art Type: Sound Effect
+Tags: hitpunch
+License(s): Creative Commons Zero (CC0)
+
+
+Martian Mono - TrueType Font
+Author: Roman Shamin
+Company: Evil Martians
+License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+https://github.com/evilmartians/mono/releases
+
+
+Mushroom Dance - Music
+Author: bart
+Sunday, October 24, 2010 - 14:21
+Art Type: Music
+Tags: mushroomdancehappytubaforestsillyxylophoneFantasyKidsOtherInstrumentalcute
+License(s): CC-BY 3.0, CC-BY-SA 3.0, GPL 3.0, GPL 2.0.
+mushroom dance_0.ogg 2.3 Mb [2299 download(s)]
+https://opengameart.org/content/mushroom-dance
+
+Foot walking step sounds
+Author: Jute
+(Submitted by qubodup)
+Wednesday, February 10, 2010 - 23:27
+Art Type: Sound Effect
+License(s): GPL 3.0, GPL 2.0
+https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
+
