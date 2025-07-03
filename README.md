@@ -1,4 +1,4 @@
 # FruitsCatcher
 
 
-![My Image](https://github.com/htanama/FruitsCatcher/blob/main/fruitcatcher.png)
+![My Image](https://github.com/htanama/FruitsCatcher/blob/main/fruitscatcher.png)
